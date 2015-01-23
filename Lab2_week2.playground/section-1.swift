@@ -21,5 +21,5 @@ class Zoo {
     }
     
 }
-let Zoo1 = Zoo(animal: "Panda")
+let Zoo1 = Zoo(animal: "Monkey")
 Zoo1.Zoofunny()
